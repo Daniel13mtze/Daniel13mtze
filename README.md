@@ -34,14 +34,6 @@ Ingeniero Biomédico titulado enfocado en el **Desarrollo de Software, Interacci
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel13mtze&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Daniel" />
-</p>
-
----
-
 ### 📫 Contacto e Información
 - 📍 Hermosillo, Sonora, México
 - ✉️ [daniel13.mtze@gmail.com](mailto:daniel13.mtze@gmail.com)
